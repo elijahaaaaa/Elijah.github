@@ -1,0 +1,27 @@
+body {
+    background-color: #F7F5F2;
+  }
+.header {
+    
+    text-align: center;
+    background: #F7F5F2;
+        
+       
+      }
+      .picture1 {
+        
+        text-align: right;
+        background: white;
+        padding: 10px;
+      }
+body2{
+  text-align: right;
+  background: white;
+}
+body3{
+  text-align: right;
+  background: white;
+  padding: 10px;
+}
+
+
